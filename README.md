@@ -77,9 +77,6 @@
 订单管理——根据订单号/姓名/用户名/身份证号 查询订单
 ![011.png](./image/admin/011.PNG)
 
-# 扩展设计文档 #
-- [告警平台分阶段建设方案](./docs/alert-platform-roadmap.md)：记录 Zabbix/Prometheus 双接入、统一 AlertEvent、Redis 去重、多级聚合、Incident 生命周期、路由升级通知，以及聚合规则 DSL 示例。
-
 # 作者 #
 段风志
 
